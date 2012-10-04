@@ -16,7 +16,7 @@ Il est plus facile que jamais d'informer vos visiteurs des plus r&eacute;centes 
 
 Il suffit de t&eacute;l&eacute;verser le widget de M&eacute;t&eacute;oM&eacute;dia sur votre site en Wordpress et l'installer automatiquement pour offrir du contenu m&eacute;t&eacute;o &agrave; jour aux internautes qui visitent votre site.
 
-Disponible en version pâle ou fonc&eacute;e, le widget m&eacute;t&eacute;o de  M&eacute;t&eacute;oM&eacute;dia s'int&egrave;gre parfaitement au design de votre site.
+Disponible en version p&acirc;le ou fonc&eacute;e, le widget m&eacute;t&eacute;o de  M&eacute;t&eacute;oM&eacute;dia s'int&egrave;gre parfaitement au design de votre site.
 
 
 
