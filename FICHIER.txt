@@ -1,26 +1,21 @@
-=== === Météo MM
-Contributeurs: MétéoMedia
-Lien : http://www.meteomedia.com
-Tags: météo, température, prévision, prévisions météo ville
+=== MM Meteo ===
+Collaborateurs: MétéoMédia
+Tags: météo, température, prévisions, prévisions météo de la ville
 
 
 == Description ==
 
-Afficher la météo de votre ville sur votre colonne
-Choisissez parmi différentes mises en page et les différents designs 
+Affichez la météo de votre ville sur votre barre latérale. Choisissez parmi différentes mises en page et dessins
 
-* Sélectionnez votre code ville à - http://www.meteomedia.com/weather_centre/cmswxbuttons
-* Choisissez de deux  fonds différents :- un fond sombre et un fond clair
-* Choisissez entre le système métrique ou impérial
-* Choisissez les données météo que vous voulez afficher :  les conditions actuelles et/ou les prévisions à court terme 
-* Choisissez d’afficher jusqu’à 5 emplacements différents emplacements 
-* Les emplacements peuvent  inclure des villes, des terrains de golf, des stations de ski, des écoles ou des parcs.
-
+* Définissez vos préférences de widgets au http://www.meteomedia.com/widget-meteo
+* Choisissez parmi deux couleurs de police différentes
+* Choisissez entre métrique ou impérial
+* Choisissez entre un ou plusieurs endroits (jusqu'à six)
 
 == Installation ==
 
-1. Téléchargez le fichier zip et décompressez le contenu,
-2. Téléchargez le dossier 'mm-temps' à votre dossier plugin WP '/ wp-content/plugins /' annuaire,
-3. Allez à la section Plugins> Plugins et activez le plugin,
-4. Allez à la section Apparence> Widgets, puis faites glisser le widget dans la colonne désirée
-5. Entrez le code de ville que vous avez obtenu à partir http://www.meteomedia.com/weather_centre/cmswxbuttons dans la case prévue à cet effet. 
+1. Téléchargez le fichier Zip et accédez au contenu
+2. Télécharger le dossier `mm-meteo` dans le répertoire  "/ wp-content / plugins / " de votre dossier  plugin WP.
+3. Allez Plugins> Plugins et activez le plugin
+4. Allez à Apparence> Widgets, et faites glisser le widget vers la barre latérale
+5. Entrez le ID widget ainsi que le premier code de localisation que vous avez obtenu à partir du http://www.meteomedia.com/widget-meteo dans le menu des paramètres du widget
