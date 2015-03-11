@@ -1,6 +1,9 @@
 === Weather Widget MeteoMedia ===
-Collaborateurs: MétéoMédia
+Contributors: MétéoMédia
 Tags: météo, température, prévisions, prévisions météo de la ville
+Tested up to: 4.1
+Stable tag: trunk
+
 
 
 == Description ==
