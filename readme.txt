@@ -1,4 +1,4 @@
-=== MM Meteo ===
+=== Weather Widget MeteoMedia ===
 Collaborateurs: MétéoMédia
 Tags: météo, température, prévisions, prévisions météo de la ville
 
